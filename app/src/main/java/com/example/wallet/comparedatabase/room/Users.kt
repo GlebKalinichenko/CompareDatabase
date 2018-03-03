@@ -1,4 +1,4 @@
-package com.example.wallet.comparedatabase.dbentity
+package com.example.wallet.comparedatabase.room
 
 import android.arch.persistence.room.ColumnInfo
 import android.arch.persistence.room.Entity

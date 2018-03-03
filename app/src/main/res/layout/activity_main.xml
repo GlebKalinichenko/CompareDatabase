@@ -127,7 +127,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
     <Button
-        android:id="@+id/button10"
+        android:id="@+id/button_objectbox_update"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -143,7 +143,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:text="delete"
-        app:layout_constraintStart_toEndOf="@+id/button10"
+        app:layout_constraintStart_toEndOf="@+id/button_objectbox_update"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
     <Button

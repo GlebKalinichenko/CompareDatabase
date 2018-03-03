@@ -1,12 +1,7 @@
 package com.example.wallet.comparedatabase.room
 
 import android.arch.persistence.room.*
-import com.example.wallet.comparedatabase.dbentity.Users
-import io.reactivex.Completable
 import io.reactivex.Flowable
-import java.nio.file.Files.delete
-import android.arch.persistence.room.Transaction
-
 
 
 /**
